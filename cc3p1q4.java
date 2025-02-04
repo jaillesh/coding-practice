@@ -17,7 +17,7 @@ class hello{
             System.out.println("E-Count: " +evencount);
         for(i=1;i<=50;i=i+1)
         {
-                if(i%2!=0){
+                if(i%2!=0){ 
                     oddcount = oddcount+1;
                     System.out.println("O: "+i);
                     
