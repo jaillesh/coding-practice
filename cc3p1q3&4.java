@@ -1,3 +1,8 @@
+// Count the Number of Odd Number from 1 to 10
+// Count the Number of Even Number from 1 to 10
+
+//Question 3 & 4 Combined
+
 class hello{
     public static void main (String[]args){
        // Scanner scan = new Scanner(System.in);
